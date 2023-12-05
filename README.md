@@ -5,7 +5,7 @@ This project aims to analyze Airbnb data using MongoDB Atlas, perform comprehens
 
 Click Here To See The Power BI Dashboard : [Click Me To View The Dashbord](https://drive.google.com/file/d/1S7CnPsnR5Z8OnBB3Qc0sJQ6llNKQrBwT/view?usp=sharing)
 
-### Tools Used
+## **Tools Used**
 
 - **Python:** Facilitates versatile programming capabilities.
 - **MongoDB (via MongoDB Atlas):** Ensures scalable and efficient data storage.
@@ -15,7 +15,7 @@ Click Here To See The Power BI Dashboard : [Click Me To View The Dashbord](https
 - **Streamlit:** Enables the development of a user-friendly web application for exploring Airbnb data.
 
 
-**Work Flow:**
+## **Work Flow:**
 
 1. **Establish MongoDB Connection:**
    - Connect to MongoDB Atlas, ensuring a secure and efficient connection.
