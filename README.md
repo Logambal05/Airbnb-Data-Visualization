@@ -46,8 +46,8 @@ Click Here To See The Power BI Dashboard : [Click Me To View The Dashbord](https
    - Enhance the user experience by providing dynamic controls for exploring various aspects of the dataset.
 
 8. **Comprehensive Dashboard:**
-   - Build a comprehensive dashboard using Tableau or Power BI, integrating key visualizations to present cohesive insights.
-   - Ensure the dashboard is user-friendly, allowing stakeholders to derive meaningful conclusions from the analysis.
+   - Build a comprehensive dashboard using Power BI, integrating key visualizations to present cohesive insights.
+   - Ensure the dashboard is user-friendly, to derive meaningful conclusions from the analysis.
   
 
 
